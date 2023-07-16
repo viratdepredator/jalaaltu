@@ -18,13 +18,10 @@ input{
     background-color: transparent;
 }
 
-i{
-    position:relative;
-    left:2.4%;
-}
+
 
 .glow-on-hover {
-    width: 10%;
+    
     height: 35px;
     border: none;
     outline: none;
